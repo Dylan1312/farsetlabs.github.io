@@ -2,7 +2,6 @@
 layout: default
 title: Facilities
 parent: "About"
-weight: 3
 toc: False
 ---
 # Facilities & Resources
